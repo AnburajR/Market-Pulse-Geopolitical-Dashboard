@@ -1,6 +1,6 @@
-# Market-Pulse-Geopolitical-Dashboard
+# Geopolitical-Market-Intelligence-dashboard
 
-Market Pulse is a multi-page Power BI dashboard designed to analyze how geopolitical disruptions impact global financial markets, commodities, and safe-haven assets.
+Geopolitical-Market-Intelligence-dashboard is a multi-page Power BI dashboard designed to analyze how geopolitical disruptions impact global financial markets, commodities, and safe-haven assets.
 
 The dashboard tracks the market response during major global events including:
 
