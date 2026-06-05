@@ -141,7 +141,7 @@ Commodity Impact Analysis
 !(images/Commodity.png)
 
 Safe Haven Assets
-!(images/SafeHaven.png)
+(images/SafeHaven.png)
 
 ## Project Outcomes
 
